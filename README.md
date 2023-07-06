@@ -21,9 +21,9 @@ plot_win_loss_distribution(number_of_fighters=1000)
 # Requirements
 This project requires Python 3.6+ and the following Python libraries installed:
 
-numpy
-pandas
-matplotlib
+* numpy
+* pandas
+* matplotlib
 
 # License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
