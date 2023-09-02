@@ -1,3 +1,4 @@
+# This is a test
 import numpy as np
 
 LIFES = 30
@@ -22,5 +23,3 @@ print("MIN:", MIN)
 print("MEAN:", MEAN)
 print("MAX:", MAX)
 print("MAX - MIN:", MAX - MIN)
-
-
